@@ -1,0 +1,1089 @@
+{
+	"employees": [
+		{
+			"name": "Albana Sufaj",
+			"department": "Administration",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Female",
+			"id": 12022,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Albano Kozmai",
+			"department": "WordPress Development",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12023,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Albano Toska",
+			"department": "Creative",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12024,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Aldo Zagni",
+			"department": "Front-End Development",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12025,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Alessandro Reggiani",
+			"department": "Back-End Development",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12026,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Alma Vigorita",
+			"department": "Service Staff",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Female",
+			"id": 12027,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Andi Beqiri",
+			"department": "Creative",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12028,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Andrea Barbieri",
+			"department": "WordPress Development",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12029,
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Anxhelo Akrobati",
+			"department": "Service Staff",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Female",
+			"id": 12030,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Ardit Okshtuni",
+			"department": "Front-End Development",
+			"title": "WordPress Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12031,
+			"salary": "€570",
+			"email": "test.prova@atis.al",
+			"profile": "name.lastname",
+			"phone": "12345678",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 8},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 15},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 20},
+				{"id": 63603, "title": "FASONE CLAUDIO GIOVANNI", "barWidth": 12},
+				{"id": 62997, "title": "CHITANO ANGELO", "barWidth": 72}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [5, 6, 5, 4, 3, 8, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		},
+		{
+			"name": "Ardit Zavalina",
+			"department": "Administration",
+			"title": "PHP Developer",
+			"joined": "2018",
+			"gender": "Male",
+			"id": 12032,
+			"salary": "€570",
+			"email": "ardit.zavalina@atis.al",
+			"profile": "ardit.zavalina",
+			"phone": "0699999999",
+			"skills": [
+				{"skill": "PHP", "level": 92, "color": "#79C10C"},
+				{"skill": "WordPress", "level": 75, "color": "#ADDE06"},
+				{"skill": "Joomla", "level": 52, "color": "#DCC704"},
+				{"skill": "Photoshop", "level": 34, "color": "#ECA30F"},
+				{"skill": "Laravel", "level": 12, "color": "#E4480E"},
+				{"skill": "Illustrator", "level": 25, "color": "#E4480E"}
+			],
+			"managers": [
+				{"name": "Marjo Dine", "title": "Project Manager", "columns": true},
+				{"name": "Emanuel Kadiasi", "title": "Project Manager", "columns": true},
+				{"name": "Marjo Dinee", "title": "Project Manager", "columns": true}
+			],
+			"tasks": [
+				{"id": 60581, "title": "GALLI KATIA", "barWidth": 10},
+				{"id": 60582, "title": "PARCO DI VENERE", "barWidth": 20},
+				{"id": 63927, "title": "FILGOD S.R.L", "barWidth": 70}
+			],
+			"projects": [
+				{
+					"client": "PRISMI SPA",
+					"id": 60581,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "IOL",
+					"id": 60582,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"},
+						{"name": "Test2"}
+						]
+				},
+				{
+					"client": "GE",
+					"id": 63927,
+					"manager": [
+						{"name": "Test"},
+						{"name": "Test1"}
+					]
+				}
+			],
+			"dataChart": [2, 5, 4, 3, 1, 7, 8],
+			"sickDaysRequest": {
+				"startDate": "14-05-2019",
+				"endDate": "17-05-2019"
+			},
+			"sickLeave": {
+				"total": 5,
+				"from": "March 2018",
+				"to": "Feb 2019",
+				"text": "Total",
+				"color": "#F36F6F"
+			},
+			"daysOff": {
+				"total": {
+					"total": 24,
+					"from": "March 2018",
+					"to": "March 2019",
+					"text": "Total",
+					"color": "#79C10C"
+				},
+				"taken": {
+					"total": 20,
+					"from": "Sept 2018",
+					"to": "Dec 2018",
+					"text": "Taken",
+					"color": "#F36F6F"
+				},
+				"remaining": {
+					"total": 4,
+					"from": "",
+					"to": "March 2019",
+					"text": "Remaining",
+					"color": "#3B7CFF"
+				}
+			},
+			"emergency": {
+				"name": "John Doe",
+				"phone": "1234567890"
+			}
+		}
+	]
+}
